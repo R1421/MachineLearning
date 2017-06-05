@@ -1,3 +1,8 @@
+"""
+Code altered from Chris Ketelsen's (PhD at CU) Machine Learning Course
+"""
+
+
 import argparse
 import numpy as np 
 import cPickle, gzip
